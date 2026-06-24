@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Python+Developer;Building+Secure+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Cybersecurity+%26+Bug+Bounty+Hunter;Python+%26+.NET+Developer;Building+Secure+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -9,22 +9,22 @@
 ## 🛡️ About Me
 
 - 🎓 **Computer Science & IT Student** — 3rd Year @ Sinai University
-- 🔒 Passionate about **Cybersecurity** and **Backend Development**
-- 🐍 Experienced in **Python**, **C++**, and **Linux** systems
-- 🌱 Currently learning **Penetration Testing** and **Web Security**
-- 🏗️ Building a **Hospital Management System** with .NET & SQL
+- 🔒 Passionate about **Cybersecurity**, **Penetration Testing** & **Bug Bounty**
+- 🐍 Experienced in **Python**, **C++**, **.NET**, and **Linux** systems
+- 🌱 Currently learning **Web Security** and **Bug Bounty Hunting**
+- 📚 Building an open-source **bilingual Web Pentest Guide** (Arabic + English)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| [🎓 Student Exam Prediction](https://github.com/abdallahakram20/Student-Exam-Degree-Prediction) | AI-powered web app predicting student exam success | Python, Streamlit, Scikit-Learn | [🌐 Live](https://abdallahakram20.github.io/portfolio) |
-| [💬 Python Chat App](https://github.com/abdallahakram20/python-chat-app) | Real-time client-server chat via socket programming | Python, Sockets, Tkinter | — |
-| [🏥 Hospital Management System](https://github.com/abdallahakram20) | Relational DB + .NET backend for hospital operations | .NET, SQL | In Progress |
-| [💳 ATM System](https://github.com/abdallahakram20) | Banking simulation using OOP principles | C++ | — |
-| [🌐 Portfolio](https://github.com/abdallahakram20/portfolio) | Personal portfolio website | HTML, CSS, JavaScript | [🌐 Live](https://abdallahakram20.github.io/portfolio) |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [🏥 Hospital Management System](https://github.com/abdallahakram20/Hospital-Management-System) | Full-featured hospital system with patient, appointment & staff management | ASP.NET Core MVC, SQL Server, Bootstrap | ✅ Completed |
+| [🛡️ Web Pentest & Bug Bounty Guide](https://github.com/abdallahakram20/web-pentest-bug-bounty-guide) | Bilingual (Arabic + English) guide covering 21 web security topics with SVG diagrams | Markdown, SVG | ✅ Completed |
+| [🎓 Student Exam Prediction](https://github.com/abdallahakram20/Student-Exam-Degree-Prediction) | AI-powered app predicting student exam success | Python, Streamlit, Scikit-Learn | ✅ Completed |
+| [💬 Python Chat App](https://github.com/abdallahakram20/python-chat-app) | Real-time multi-client chat with file sharing & image preview | Python, Sockets, Tkinter | ✅ Completed |
+| [💳 ATM System](https://github.com/abdallahakram20) | Banking simulation using OOP principles | C++ | ✅ Completed |
 
 ---
 
@@ -55,13 +55,13 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · C# (Basics) · HTML · CSS · JavaScript
+**Languages:** Python · C++ · C# · HTML · CSS · JavaScript
 
-**Cybersecurity:** Penetration Testing · Wireshark · Nmap · Burp Suite · Linux
+**Cybersecurity:** Penetration Testing · Burp Suite · Nmap · Wireshark · Subfinder · Nuclei · Linux
 
 **ML/AI:** Scikit-Learn · Pandas · NumPy · Streamlit
 
-**Backend:** .NET · Socket Programming · SQL
+**Backend:** ASP.NET Core MVC · Socket Programming · SQL Server
 
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
@@ -69,9 +69,9 @@
 
 ## 🎯 Currently Working On
 
-- 🏥 Hospital Management System (DB + .NET)
-- 📚 Deepening Cybersecurity & Penetration Testing skills
-- 🤖 Expanding Machine Learning knowledge
+- 🛡️ Bug Bounty Hunting & Web Application Security
+- 📚 Expanding the Web Pentest & Bug Bounty Guide
+- 🤖 Deepening Machine Learning knowledge
 
 ---
 
